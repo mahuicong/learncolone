@@ -1,4 +1,4 @@
 # learncolone
 colone a repository
 add a new line
-add a new because create a new branch.
+Creating a new brnch is quick &simple.
