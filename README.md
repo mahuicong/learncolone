@@ -5,5 +5,6 @@ Creating a new brnch is quick and simple.
 test forbidian fast merge
 test forbidian fm
 test stash
+update from d
 
 
